@@ -1,7 +1,9 @@
-📘 MongoDB Learning Project – RESTful API with Express & Mongoose
+📘 **MongoDB Learning Project – RESTful API with Express & Mongoose**
+
 This is a simple backend application I built to learn and explore MongoDB and Mongoose using Node.js and Express.js. The application demonstrates the fundamentals of working with MongoDB — including CRUD operations, schema modeling, and database interaction — in a clean and structured REST API format.
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
+
 Node.js
 
 Express.js
@@ -12,7 +14,8 @@ Mongoose
 
 Nodemon (for auto-reloading during development)
 
-🔍 Features
+🔍 **Features**
+
 Full CRUD API for managing documents in MongoDB
 
 Mongoose models and schemas for data validation and structure
@@ -27,7 +30,8 @@ Environment configuration using .env for database credentials
 
 Hot-reloading using Nodemon for a better development experience
 
-📚 What I Learned
+📚**What I Learned**
+
 How to connect Node.js to MongoDB using Mongoose
 
 How to define and enforce data structure with schemas and models
